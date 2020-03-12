@@ -1,0 +1,42 @@
+.container{
+    margin-bottom:50px;
+}
+.head-part{
+    margin-top:40px;
+    font-weight: 600;
+}
+.head-part img{
+    width:120px;
+}
+button{
+    background-color:black;
+    color:white;
+    padding:7px 15px; 
+    border-radius:8px;
+}
+.card{
+    border:none;
+    box-shadow: 1px 1px 3px lightgrey;
+    background-color:white;
+}
+.card-body{
+    text-align:center;
+}
+.card-body p{
+    color:gray;
+}
+.cat{
+    box-shadow: 3px 3px 5px lightgray;
+    padding:30px 30px;
+    border-radius:5px;
+    margin-top:80px;
+    text-align:center;
+}
+.cate{
+    text-decoration:underline;
+    text-align:center;
+}
+
+
+
+
