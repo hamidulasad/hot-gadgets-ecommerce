@@ -16,7 +16,7 @@ button{
 }
 .card{
     border:none;
-    box-shadow: 1px 1px 3px lightgrey;
+    box-shadow:1px 1px 3px lightgrey;
     background-color:white;
 }
 .card-body{
@@ -29,12 +29,18 @@ button{
     box-shadow: 3px 3px 5px lightgray;
     padding:30px 30px;
     border-radius:5px;
-    margin-top:80px;
+    margin-top:70px;
     text-align:center;
 }
 .cate{
-    text-decoration:underline;
     text-align:center;
+}
+#head-part{
+  background-color:rgba(173, 216, 230, 0.493);
+}
+footer{
+    text-align: center;
+    color:gray;
 }
 
 
